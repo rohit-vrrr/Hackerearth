@@ -1,6 +1,6 @@
 # Hackerearth
 Hackerearth Code Monk
 
-# Monk and Rotation
-
-# Monk and Inversions
+Arrays & Strings
+- Monk and Rotation
+- Monk and Inversions
